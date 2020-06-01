@@ -1,4 +1,5 @@
 body {
     background-color: pink;
-    border: dotted gray;
+    border: solid gray;
+    min-height: 96vh;
 }
